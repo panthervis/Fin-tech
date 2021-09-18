@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="26px" viewBox="0 0 27 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>dropdown</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Mobile-Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Our-Story---Mobile" transform="translate(-259.000000, -399.000000)">
+            <g id="Group-2" transform="translate(31.500000, 392.000000)">
+                <g id="dropdown" transform="translate(228.000000, 7.000000)">
+                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="26" height="26" rx="5"></rect>
+                    <path d="M17.5705486,11.3148396 L13.0001857,15.8852025 L8.42982282,11.3148396 C8.20051294,11.0855297 7.82986372,11.0855297 7.60055384,11.3148396 C7.37124396,11.5441494 7.37124396,11.9147987 7.60055384,12.1441085 L12.5855512,17.1291059 C12.6999129,17.2434676 12.8500493,17.3009417 13.0001857,17.3009417 C13.1503221,17.3009417 13.3004585,17.2434676 13.4148202,17.1291059 L18.3998176,12.1441085 C18.6291275,11.9147987 18.6291275,11.5441494 18.3998176,11.3148396 C18.1705077,11.0855297 17.7998585,11.0855297 17.5705486,11.3148396" id="Fill-1558" fill="#334342"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

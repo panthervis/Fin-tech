@@ -1,0 +1,11 @@
+
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Privacy" transform="translate(-791.000000, -558.000000)">
+            <g id="Group-3" transform="translate(792.000000, 559.000000)">
+                <path d="M16.9127588,9.44835545 C16.7720343,9.17382552 16.4831411,9.00016267 16.1669063,9 L7.83335948,9 C7.51770802,9 7.22914802,9.17288132 7.0879844,9.44656721 C6.94682077,9.72025309 6.97728486,10.0477642 7.16667574,10.2925563 L11.3334492,15.6768609 C11.4908318,15.8802817 11.7378284,16 12.0001329,16 C12.2624374,16 12.509434,15.8802817 12.6668166,15.6768609 L16.8335901,10.2925563 C17.0223913,10.0482557 17.0530197,9.72165516 16.9127588,9.44835545 Z" id="Expand" fill="#334342" fill-rule="nonzero" transform="translate(12.000000, 12.500000) scale(1, -1) translate(-12.000000, -12.500000) "></path>
+                <rect id="Rectangle" stroke="#979797" opacity="0.31875465" x="0" y="0" width="24" height="24" rx="4"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

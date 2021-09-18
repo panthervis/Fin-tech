@@ -1,0 +1,193 @@
+@import "./fonts/CircularStd/stylesheet.css";
+@import "./fonts/TiemposHeadline/stylesheet.css";
+@import "./fonts/OpenSans/stylesheet.css";
+@import "./slick/slick.css";
+@import "./slick/slick-theme.css";
+@import "react-table/react-table.css";
+
+/* purgecss start ignore */
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap");
+@tailwind base;
+
+/* purgecss end ignore */
+h1 {
+  @apply text-5xl;
+}
+
+h2 {
+  @apply text-4xl;
+}
+
+h3 {
+  @apply text-2xl;
+}
+
+h4 {
+  @apply text-xl;
+}
+
+body {
+  @apply text-teal-1;
+}
+
+@tailwind components;
+
+@tailwind utilities;
+@tailwind screens;
+
+html {
+  font-size: 24px;
+}
+
+body {
+  font-family: "OpenSans";
+  margin: 0;
+  /* overflow: hidden; */
+}
+
+/* fix for ie11 footer whitespace */
+footer {
+  overflow: hidden;
+}
+
+#__next {
+  overflow: hidden;
+}
+
+@media only screen and (max-width: 1280px) {
+  html {
+    font-size: 20px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  html {
+    font-size: 18px;
+  }
+}
+
+.round-edge {
+  border-radius: 0 18px 18px 0;
+}
+
+.chart-container {
+  display: flex;
+}
+
+.doughnut-legend ul {
+  list-style: none;
+  font: 10px Verdana;
+  white-space: nowrap;
+}
+
+@media only screen and (max-width: 1350px) {
+  .doughnut-legend ul {
+    font-size: 9px;
+  }
+}
+
+.doughnut-legend li span {
+  width: 36px;
+  height: 12px;
+  display: inline-block;
+  margin: 0 5px 8px 0;
+  vertical-align: -9.4px;
+}
+
+button:focus {
+  outline: 0;
+}
+
+.highlight-links a {
+  color: #90b8bb;
+}
+
+.ReactTable .rt-thead .rt-header-wrap > .rt-resizable-header-content {
+  text-overflow: unset;
+  word-wrap: normal;
+  white-space: normal;
+  overflow: auto;
+}
+
+.hubCTA:before {
+  content: url("/downloadArrow.svg");
+  display: inline-block;
+  height: 30px;
+  font-weight: 400;
+  top: 0.5px;
+  left: -5px;
+  padding-left: 5px;
+  position: relative;
+}
+
+.hubCTA {
+  align-items: center;
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-color: rgb(255, 255, 255);
+  background-image: none;
+  background-origin: padding-box;
+  background-position: 0% 0%;
+  background-position-x: 0%;
+  background-position-y: 0%;
+  background-repeat: repeat;
+  background-size: auto;
+  border-bottom-color: rgb(226, 232, 240);
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-bottom-style: solid;
+  border-bottom-width: 0px;
+  border-left-color: rgb(226, 232, 240);
+  border-left-style: solid;
+  border-left-width: 0px;
+  border-right-color: rgb(226, 232, 240);
+  border-right-style: solid;
+  border-right-width: 0px;
+  border-top-color: rgb(226, 232, 240);
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-top-style: solid;
+  border-top-width: 0px;
+  box-sizing: border-box;
+  color: rgb(51, 67, 66);
+  cursor: pointer;
+  display: inline-flex;
+  font-family: "OpenSans";
+  font-size: 13.9167px;
+  line-height: 20.8833px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  outline-color: rgb(51, 67, 66);
+  outline-style: none;
+  outline-width: 0px;
+  overflow: visible;
+  overflow-x: visible;
+  overflow-y: visible;
+  padding-bottom: 6px;
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 6px;
+  text-transform: none;
+  -moz-appearance: button;
+  -moz-box-align: center;
+}
+
+.ml-5 .hubCTA:before {
+  content: url("/Commentary.svg");
+  display: inline-block;
+  height: 30px;
+  font-weight: 400;
+  top: 0px;
+  left: -5px;
+  padding-left: 5px;
+  position: relative;
+}
+
+.img-fit {
+  width: 100% !important;
+  height: 100% !important;
+  border-width: 0 !important;
+  transform: scale(1.35) !important;
+}

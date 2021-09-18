@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="111px" viewBox="0 0 106 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Left Arrow Copy 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+   
+        <linearGradient x1="32.7421875%" y1="54.6943619%" x2="67.2578125%" y2="58.9549305%" id="linearGradient-2">
+            <stop stop-color="#EA8005" offset="0%"></stop>
+            <stop stop-color="#C4112F" offset="48.0231208%"></stop>
+            <stop stop-color="#7C2B48" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="with-Purpose---Teams" transform="translate(0.000000, -1887.000000)">
+            <g id="Group-9-Copy-3" transform="translate(23.000000, 1914.000000)">
+                <g id="Left-Arrow-Copy-7" >
+                    <rect id="Rectangle-Copy-5" fill-opacity="0.75" fill="#FFFFFF" x="0.880597015" y="0.5" width="52" height="52" rx="2"></rect>
+                    <polygon id="Shape" fill="url(#linearGradient-2)" transform="translate(26.880597, 26.500000) rotate(-360.000000) translate(-26.880597, -26.500000) " points="31.433722 20.10625 30.077472 18.75 22.327472 26.5 30.077472 34.25 31.433722 32.89375 25.039972 26.5"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+{
+  "build": {
+    "env": {
+      "CTF_SPACE_ID": "@ctf_space_id",
+      "CTF_CDA_TOKEN": "@ctf_cda_token",
+      "CTF_CPA_TOKEN": "@ctf_cpa_token",
+      "CTF_SPACE_ID_TWO": "@ctf_space_id_two",
+      "CTF_CDA_TOKEN_TWO": "@ctf_cda_token_two",
+      "CTF_CPA_TOKEN_TWO": "@ctf_cpa_token_two",
+      "GHOST_API_URL": "@ghost-api-url",
+      "GHOST_CONTENT_API_KEY": "@ghost-content-api-key",
+      "API_HOST": "@api-host"
+    }
+  },
+  "routes": [
+    { "src": "/fund-data", "dest": "https://www.purposeinvest.com/fund-data" },
+    { "src": "/funds", "dest": "https://www.purposeinvest.com/invest" }
+  ]
+}

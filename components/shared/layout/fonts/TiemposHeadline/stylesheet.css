@@ -1,0 +1,81 @@
+/* purgecss start ignore */
+@font-face {
+  font-family: "Tiempos Headline";
+  font-style: normal;
+  font-weight: 400;
+  src: url(./TiemposHeadlineWeb-Regular.woff) format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tiempos Headline";
+  font-style: italic;
+  font-weight: 400;
+  src: url(./TiemposHeadlineWeb-RegularItalic.woff) format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tiempos Headline";
+  font-style: normal;
+  font-weight: 300;
+  src: url(./TiemposHeadlineWeb-Light.woff) format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tiempos Headline";
+  font-style: italic;
+  font-weight: 300;
+  src: url(./TiemposHeadlineWeb-LightItalic.woff) format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tiempos Headline Medium";
+  font-style: normal;
+  font-weight: 400;
+  src: url(./TiemposHeadlineWeb-Medium.woff) format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tiempos Headline Medium";
+  font-style: italic;
+  font-weight: 400;
+  src: url(./TiemposHeadlineWeb-MediumItalic.woff) format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tiempos Headline";
+  font-style: normal;
+  font-weight: 700;
+  src: url(./TiemposHeadlineWeb-Bold.woff) format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tiempos Headline";
+  font-style: italic;
+  font-weight: 700;
+  src: url(./TiemposHeadlineWeb-BoldItalic.woff) format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tiempos Headline";
+  font-style: normal;
+  font-weight: 800;
+  src: url(./TiemposHeadlineWeb-Black.woff) format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tiempos Headline";
+  font-style: italic;
+  font-weight: 800;
+  src: url(./TiemposHeadlineWeb-BlackItalic.woff) format("woff");
+  font-display: swap;
+}
+/* purgecss end ignore */
